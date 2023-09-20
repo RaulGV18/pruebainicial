@@ -50,3 +50,7 @@ body #menu {
     background-color: orange;
 
 }
+#imagenes img{
+    width: 200px;
+    justify-content: space-between;
+}
