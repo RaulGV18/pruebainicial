@@ -51,6 +51,16 @@ body #menu {
 
 }
 #imagenes img{
-    width: 200px;
-    justify-content: space-between;
+    width: 300px;
+    height: 250px;
+}
+#imagenes {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer {
+    background-color: orange;
+    text-align: center;
 }
